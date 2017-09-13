@@ -46,7 +46,6 @@ img {
 
 a:hover {
   color: #130e09;
-  font-family: 'Code Pro', monospace;
   font-size: 40px;
   background: #fff;
   line-height: 1.6; 
@@ -55,7 +54,6 @@ a:hover {
 a {
   color: #fff;
   font-size: 40px;
-  font-family: 'Code Pro', monospace;
   background-color: #004e9a;
   line-height: 1.6; 
   text-decoration: none; }
