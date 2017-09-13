@@ -29,6 +29,11 @@ h6 {
   font-weight: normal;
   line-height: 1.6; }
 
+
+img {
+   margin: 20px;
+}
+
 a:hover {
   color: #222;
   font-size: 20px;
