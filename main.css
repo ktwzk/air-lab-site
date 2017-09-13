@@ -10,11 +10,11 @@ body {
   font: 20px monospace;
   background: #fff;
   line-height: 1.6;
-  color: #222; }
+  color: #130e09; }
 
 h1 {
   font-size: 36px;
-  color: #004cf5;
+  color: #004e9a;
   margin: 5px;
 }
 
@@ -36,15 +36,15 @@ img {
 }
 
 a:hover {
-  color: #222;
+  color: #130e09;
   font-size: 40px;
   background: #fff;
   line-height: 1.6; 
   text-decoration: none; }
   
 a {
-  color: #222;
+  color: #130e09;
   font-size: 40px;
-  background-color: #004cf5;
+  background-color: #004e9a;
   line-height: 1.6; 
   text-decoration: none; }
