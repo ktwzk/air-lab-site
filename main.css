@@ -7,6 +7,12 @@
 
 @import url('https://fonts.googleapis.com/css?family=PT+Mono&subset=cyrillic');
 
+
+@font-face {
+  font-family: "Code Pro";
+  src: url("/9583.otf");
+}
+
 body {
   font-size: 20px;
   font-family: 'PT Mono', monospace;
@@ -16,6 +22,7 @@ body {
 
 h1 {
   font-size: 36px;
+  font-family: 'Code Pro', monospace;
   color: #004e9a;
   margin: 5px;
 }
@@ -39,6 +46,7 @@ img {
 
 a:hover {
   color: #130e09;
+  font-family: 'Code Pro', monospace;
   font-size: 40px;
   background: #fff;
   line-height: 1.6; 
@@ -47,6 +55,7 @@ a:hover {
 a {
   color: #fff;
   font-size: 40px;
+  font-family: 'Code Pro', monospace;
   background-color: #004e9a;
   line-height: 1.6; 
   text-decoration: none; }
