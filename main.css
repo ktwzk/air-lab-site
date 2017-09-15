@@ -45,6 +45,11 @@ img {
    display: inline;
 }
 
+img a {
+    background: #fff;
+}
+
+
 .header {
    margin: 20px;
    display: block;
