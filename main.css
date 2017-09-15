@@ -57,17 +57,17 @@ a:hover {
 }
 
 a.hoverable:hover {
-  color: #130e09;
   font-size: 36px;
-  background: #fff;
   line-height: 1.6; 
   text-decoration: none; }
   
 a.hoverable {
-  color: #fff;
-  padding-right: 6px;
-  padding-left: 6px;
   font-size: 36px;
   line-height: 1.6; 
-  background: #004e9a;
   text-decoration: none; }
+
+.button {
+    border: 6px solid #004e9a;
+    padding: 7px;
+    margin: 5px;
+}
