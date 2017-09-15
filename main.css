@@ -58,16 +58,18 @@ a:hover {
 
 a.hoverable:hover {
   font-size: 36px;
-  line-height: 1.6; 
-  text-decoration: none; }
+  font-family: 'Code Pro', monospace;
+  color: #004e9a;
+  margin: 5px;}
   
 a.hoverable {
   font-size: 36px;
-  line-height: 1.6; 
-  text-decoration: none; }
+  font-family: 'Code Pro', monospace;
+  color: #004e9a;
+  margin: 5px; }
 
 .button {
     border: 6px solid #004e9a;
     padding: 7px;
-    margin: 5px;
+    margin: 10px;
 }
