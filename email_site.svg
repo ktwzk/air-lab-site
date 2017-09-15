@@ -1,1 +1,20 @@
-<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 377.89 377.89"><defs><style>.cls-1{fill:none;stroke:#004e9b;stroke-miterlimit:10;stroke-width:20px;}.cls-2{font-size:267.83px;fill:#004e9b;font-family:Code Pro;}</style></defs><title>email_site</title><rect class="cls-1" x="10" y="10" width="357.89" height="357.89"/><text class="cls-2" transform="translate(79.94 280.57)">@</text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 377.9 377.9" style="enable-background:new 0 0 377.9 377.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#004E9B;stroke-width:20;stroke-miterlimit:10;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#004E9B;}
+</style>
+<title>email_site</title>
+<rect x="10" y="10" class="st0" width="357.9" height="357.9"/>
+<g class="st1">
+	<path class="st2" d="M190.3,117.2c-42.1,0-67.5,31.9-73.9,66.2c-8.3,45,13.7,77.7,64.8,77.7c7.5,0,16.3-1.6,28.1-6.2l11,21.4
+		c-15.8,6.2-27.9,8.3-39.1,8.3c-70.2,0-99.6-46.9-88.4-106.6c7.8-43.1,42.6-84.6,97-84.6c50.9,0,89.2,34.3,89.2,79
+		c0,54.1-32.4,77.7-62.9,77.7c-7.5,0-16.3-2.7-16.9-19c-7.8,11.8-19.8,16.3-30,16.3c-27.6,0-42.9-25.7-36.2-55.4
+		c7-31.9,26.2-60,60.5-60c8.8,0,23.3,6.7,23.3,18.7l6.2-10.2l19.3,2.1l-19.6,72v-0.5c-0.3,0.3-0.3,0.8-0.3,0.8
+		c-1.6,4.3-3.8,9.9-0.8,9.9c26.5,0.8,46.1-55.2,21.4-85.2C231.5,125,211.4,117.2,190.3,117.2z M171.3,223
+		c19.6,0,35.4-28.1,35.4-47.1c0-12.1-4.8-19.6-14.2-19.6c-19.6-0.5-30.8,18.7-34.6,37.2C155.5,204.5,154.4,223,171.3,223z"/>
+</g>
+</svg>
