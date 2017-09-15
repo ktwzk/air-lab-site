@@ -45,25 +45,27 @@ img {
    display: inline;
 }
 
-img a {
-    background: #fff;
-}
-
-
 .header {
    margin: 20px;
    display: block;
 }
 
-p a:hover {
+a {
+}
+
+a:hover {
+}
+
+.hoverable a:hover {
   color: #130e09;
   font-size: 36px;
   background: #fff;
   line-height: 1.6; 
   text-decoration: none; }
   
-p a {
+.hoverable a {
   color: #fff;
   font-size: 36px;
   line-height: 1.6; 
+  background: #004e9a;
   text-decoration: none; }
