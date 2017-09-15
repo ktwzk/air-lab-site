@@ -56,14 +56,14 @@ a {
 a:hover {
 }
 
-.hoverable a:hover {
+a.hoverable:hover {
   color: #130e09;
   font-size: 36px;
   background: #fff;
   line-height: 1.6; 
   text-decoration: none; }
   
-.hoverable a {
+a.hoverable {
   color: #fff;
   font-size: 36px;
   line-height: 1.6; 
