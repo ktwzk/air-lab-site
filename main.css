@@ -60,13 +60,19 @@ a.hoverable:hover {
   font-size: 36px;
   font-family: 'Code Pro', monospace;
   color: #004e9a;
-  margin: 5px;}
+  }
   
 a.hoverable {
   font-size: 36px;
   font-family: 'Code Pro', monospace;
   color: #004e9a;
-  margin: 5px; }
+  }
+
+a.hoverable:visited {
+  font-size: 36px;
+  font-family: 'Code Pro', monospace;
+  color: #004e9a;
+ }
 
 .button {
     border: 6px solid #004e9a;
