@@ -81,4 +81,5 @@ a.hoverable:visited {
     border: 6px solid #004e9a;
     padding: 7px;
     margin: 10px;
+    text-align: center;
 }
