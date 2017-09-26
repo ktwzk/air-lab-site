@@ -93,3 +93,7 @@ a.hoverable:visited {
   color: #fff;
   background: #004e9a; 
 }
+
+.row {
+   overflow: hidden;
+}
