@@ -83,3 +83,13 @@ a.hoverable:visited {
     margin: 10px;
     text-align: center;
 }
+
+::-moz-selection {
+    color: #fff;
+    background: #004e9a; 
+  }
+
+::selection {
+  color: #fff;
+  background: #004e9a; 
+}
