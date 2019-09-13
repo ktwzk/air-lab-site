@@ -56,10 +56,10 @@
                 <div class="c1">
                 </div>
                 <div class="c10">
-<h5>Робототехника&nbsp;— это совсем не&nbsp;сложно. Мы&nbsp;решили доказать это, сделав спецкурс для всех желающих (особенно ждём 1&nbsp;и&nbsp;2&nbsp;курс). Если ты&nbsp;всегда хотел делать роботов, но&nbsp;не&nbsp;знал как&nbsp;— мы&nbsp;ждём тебя. Приходи на&nbsp;собрание и&nbsp;начнём!</h5> 
+<h5>Робототехника&nbsp;— это совсем не&nbsp;сложно. Мы&nbsp;решили доказать это, сделав спецкурс для всех желающих (особенно ждём 1&nbsp;и&nbsp;2&nbsp;курс). Если ты&nbsp;всегда хотел делать роботов, но&nbsp;не&nbsp;знал как&nbsp;— мы&nbsp;ждём тебя. <span data-remove-after="2019-10-20">Приходи на&nbsp;собрание и&nbsp;начнём!</span></h5> 
                      </div>
             </div>
-            <div class="row">
+            <div class="row" data-remove-after="2019-10-20">
                 <div class="c1">
                 </div>
                 <div class="c10">
@@ -79,7 +79,7 @@
                   </center>
                </div>
             </div>-->
-            <div class="row">
+            <div class="row" data-remove-after="2019-10-20">
                <h6 class="c12">
                <center>
                   <h1>~
@@ -101,6 +101,18 @@
          </div>
       </div>
       </div>
+      <script>
+         (function(){
+         "use strict";
+
+         for(var element of document.querySelectorAll('[data-remove-after]')){
+             var now = new Date();
+             if(now > new Date(element.dataset.removeAfter)){
+                 element.remove()
+             }
+         }
+         })()
+      </script>
       <!-- Yandex.Metrika counter -->
       <script type="text/javascript" >
          (function (d, w, c) {
